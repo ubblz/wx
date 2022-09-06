@@ -3,27 +3,27 @@
         {
             "id": "1",
             "cate_name": "动作",
-            "image": ""
+            "image": "/assets/icon/action.png"
         },
         {
             "id": "2",
             "cate_name": "第三人称射击",
-            "image": ""
+            "image": "/assets/icon/fighting_martial_arts.png"
         },
         {
             "id": "3",
             "cate_name": "角色扮演",
-            "image": ""
+            "image": "/assets/icon/rpg.png"
         },
         {
             "id": "4",
             "cate_name": "模拟",
-            "image": ""
+            "image": "/assets/icon/simulation.png"
         },
         {
             "id": "5",
             "cate_name": "竞速",
-            "image": ""
+            "image": "/assets/icon/racing.png"
         }
     ],
     "ganme": [
