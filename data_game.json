@@ -1,0 +1,537 @@
+{
+    "cate": [
+        {
+            "id": "1",
+            "cate_name": "动作",
+            "image": ""
+        },
+        {
+            "id": "2",
+            "cate_name": "第三人称射击",
+            "image": ""
+        },
+        {
+            "id": "3",
+            "cate_name": "角色扮演",
+            "image": ""
+        },
+        {
+            "id": "4",
+            "cate_name": "模拟",
+            "image": ""
+        },
+        {
+            "id": "5",
+            "cate_name": "竞速",
+            "image": ""
+        }
+    ],
+    "ganme": [
+        {
+            "id": 1,
+            "cate_id": "1",
+            "name": "JOJO的奇妙冒险 群星之战 重制版",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 399
+                },
+                {
+                    "name": "豪华版",
+                    "price": 499
+                }
+            ],
+            "detail": "重现了荒木飞吕彦老师所描绘的独特画风的格斗游戏！ 总共集结了50位历代角色，替身、波纹、流法等，在各部中活跃的能力互相对抗！ 只有在本作才能看到的梦幻舞台，在原作中从没相遇的角色间的互动都是此生必看！ ",
+            "img": [
+                "/assets/img/action/jojo/JOJO.jpg",
+                "/assets/img/action/jojo/JOJO_1.jpg",
+                "/assets/img/action/jojo/JOJO_2.jpg",
+                "/assets/img/action/jojo/JOJO_3.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "cate_id": "1",
+            "name": "兽人必须死！",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 87
+                },
+                {
+                    "name": "捆包版",
+                    "price": 176
+                }
+            ],
+            "detail": "在玩家翘首以盼的《兽人必须死！》续作中，玩家可以使用武器和陷阱对付来犯的兽人大军。切碎它们！烧焦它们！电击它们！ ",
+            "img": [
+                "/assets/img/action/Orcs_Must_Die_3/header.jpg",
+                "/assets/img/action/Orcs_Must_Die_3/ss_0c7c33c345a7a5d96246ce97a4d9cb87671cf134.1920x1080.jpg",
+                "/assets/img/action/Orcs_Must_Die_3/ss_233f151eca027215270cd6133334971039cd5d1d.1920x1080.jpg",
+                "/assets/img/action/Orcs_Must_Die_3/ss_9d2490f86172180c3b44d92ed3bf9e1af5839830.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "cate_id": "1",
+            "name": "Lost Light",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 33
+                }
+            ],
+            "detail": "成为萤火虫特遣小队的一员，在Lost Light的世界里揭开禁区背后的险恶阴谋。你可以探索地图搜集物资，也可以直击敌人掠夺装备。在秩序崩塌、危机四伏的封锁区中生存下来，探索幕后真相吧！ ",
+            "img": [
+                "/assets/img/action/Lost_Light/header.jpg",
+                "/assets/img/action/Lost_Light/ss_93a5c7e46f4d088355f7223bed37611b56098a7a.1920x1080.jpg",
+                "/assets/img/action/Lost_Light/ss_a8f275fb257793ecce0ac0fe733a971b857f2a97.1920x1080.jpg",
+                "/assets/img/action/Lost_Light/ss_cbe5849a0fb6dc11b3db356a2dfd9a3c386e1886.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "cate_id": "1",
+            "name": "谁是谁？",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 76
+                }
+            ],
+            "detail": "与来自世界各地的朋友一起享受激烈的《眼色游戏》吧！成为最终幸存者的瞬间，将会感受到一种前所未有的刺激感。可以体验警察和小偷模式、寻人模式等多种模式。",
+            "img": [
+                "/assets/img/action/Whos_Who/header.jpg",
+                "/assets/img/action/Whos_Who/ss_0c97342caa5d1245834cbdabbdc96383b4a2ff84.1920x1080.jpg",
+                "/assets/img/action/Whos_Who/ss_60a1a11872a384b981f52601e6b5387e66f0d762.1920x1080.jpg",
+                "/assets/img/action/Whos_Who/ss_885ba6fc4face80fc63ec37c8f60e38638ea14a1.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "cate_id": "1",
+            "name": "Gloomwood?",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 260
+                }
+            ],
+            "detail": "Trapped in a dark, Victorian city consumed by an ancient curse, you must plan your survival and daring escape using nothing but stealth, an arsenal of eccentric weapons, and your wit in this haunting adventure inspired by the immersive sims and survival horror greats of the late 90s and early 2000s",
+            "img": [
+                "/assets/img/action/Gloomwood/header.jpg",
+                "/assets/img/action/Gloomwood/ss_2b29ec7354de8388a98c908bcf10d8ead2e1b607.1920x1080.jpg",
+                "/assets/img/action/Gloomwood/ss_604f0cea89df5de01c432975d5cc44f09eaf70ba.1920x1080.jpg",
+                "/assets/img/action/Gloomwood/ss_1185219be0131c1e0607ca3135f7967a110c1125.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "cate_id": "2",
+            "name": "永劫无间",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 159
+                },
+                {
+                    "name": "豪华版",
+                    "price": 279
+                },
+                {
+                    "name": "终极版",
+                    "price": 409
+                }
+            ],
+            "detail": "挥舞利刃，斩杀！端起火枪，爆头！享受远近结合的华丽战斗！ 在房顶跑酷，在树林中飞索穿梭，广大的地图任君高速前行！ 活用英雄能力，用风沙、隐身，甚至化身金刚大佛碾碎敌人！ 独一无二的60人生存竞技，成为最后的赢家！ ",
+            "img": [
+                "/assets/img/fighting_martial_arts/NARAKA_BLADEPOINT/header_schinese.jpg",
+                "/assets/img/fighting_martial_arts/NARAKA_BLADEPOINT/ss_226a542c1d5d5c8440ed9394657f080f9c525fd9.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/NARAKA_BLADEPOINT/ss_2141d35d3d0a3c7945db667ed92c0fa4a2d7630c.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/NARAKA_BLADEPOINT/ss_fede743af03b94e8ccd8c1d8f156916acdce7723.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "cate_id": "2",
+            "name": "TEKKEN 7",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 249
+                },
+                {
+                    "name": "豪华版",
+                    "price": 789
+                }
+            ],
+            "detail": "Discover the epic conclusion of the long-time clan warfare between members of the Mishima family. Powered by Unreal Engine 4, the legendary fighting game franchise fights back with stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals. ",
+            "img": [
+                "/assets/img/fighting_martial_arts/TEKKEN_7/header.jpg",
+                "/assets/img/fighting_martial_arts/TEKKEN_7/ss_40faa5ba39563cb899f1ab2ddd2afbf8b451d52f.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/TEKKEN_7/ss_d92a558644ad60ae5814fc4d2bbaebc5abf62fa3.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/TEKKEN_7/ss_ed3246605518907954918eb06e90705249be77d6.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "cate_id": "2",
+            "name": "Devil May Cry 5",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 234
+                },
+                {
+                    "name": "豪华版",
+                    "price": 312
+                }
+            ],
+            "detail": "最强的恶魔猎人强势回归！动作游戏迷翘首以待，传说中的Stylish Action《Devil May Cry》终于復活！ ",
+            "img": [
+                "/assets/img/fighting_martial_arts/Devil_May_Cry_5/header.jpg",
+                "/assets/img/fighting_martial_arts/Devil_May_Cry_5/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/Devil_May_Cry_5/ss_e2be70565f94a7f6c392cccddce08c67f2f87612.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/Devil_May_Cry_5/ss_f669d4627db07e61b87728d94d72bc1eabfd0349.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "cate_id": "2",
+            "name": "GrandChase",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 13
+                }
+            ],
+            "detail": "Grand Chase is a free side-scrolling online action RPG with anime inspired graphics. Enjoy exciting adventures in dungeons and PvP with unique characters.",
+            "img": [
+                "/assets/img/fighting_martial_arts/GrandChase/header.jpg",
+                "/assets/img/fighting_martial_arts/GrandChase/ss_09ca5c37922f515f91bcbdf061c405974c806b41.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/GrandChase/ss_7634064eb442cb9e69fb3aa5aa112d897c1f984d.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/GrandChase/ss_d5dea075b229010115d428ebb58a3016c1aa664b.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "cate_id": "2",
+            "name": "MIR4",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 15
+                }
+            ],
+            "detail": "全球共斗MMORPG，五亿玩家的战争！ 在力量面前，你选择主宰，还是屈服？ 立即加入我们，缔造你的传奇！",
+            "img": [
+                "/assets/img/fighting_martial_arts/MIR4/header.jpg",
+                "/assets/img/fighting_martial_arts/MIR4/ss_18cb5e0f3b511c6aeb75c806b6488fac5c781c8c.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/MIR4/ss_235ad104e85dea002d8d2bac9637dc228f6a8d01.1920x1080.jpg",
+                "/assets/img/fighting_martial_arts/MIR4/ss_919acd38fa8ae1cf11a6278206f209c95ab71536.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 11,
+            "cate_id": "3",
+            "name": "帝国入境所",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 60
+                },
+                {
+                    "name": "终极版",
+                    "price": 6654
+                }
+            ],
+            "detail": "在统一大战争结束之后，原本四分五裂的帝国终于再次被整合为了一个整体。而在战争中立下了赫赫战功的老兵提尔则在战争结束后被任命为一个边境检查站的负责人，肩负起了保护国家边境安全的重大责任。一切为了帝国！",
+            "img": [
+                "/assets/img/rpg/The_Imperial_Gatekeeper/header_schinese.jpg",
+                "/assets/img/rpg/The_Imperial_Gatekeeper/ss_24fbd9464a158ae8275ec3a3f6a47afe655d219b.1920x1080.jpg",
+                "/assets/img/rpg/The_Imperial_Gatekeeper/ss_cf90845dbd69c7e92bff9d541c217c2d161915a6.1920x1080.jpg",
+                "/assets/img/rpg/The_Imperial_Gatekeeper/ss_d65587c6b9e2de29d0e915759a0e3f353b41494d.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 12,
+            "cate_id": "3",
+            "name": "来自深渊 朝向黑暗的双星",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 428
+                }
+            ],
+            "detail": "无可救药动作角色扮演游戏",
+            "img": [
+                "/assets/img/rpg/Made_in_Abyss_Binary_Star_Falling_into_Darkness/header_schinese.jpg",
+                "/assets/img/rpg/Made_in_Abyss_Binary_Star_Falling_into_Darkness/ss_67c2fbe23c399eea462f3379867f7058511f9d04.1920x1080.jpg",
+                "/assets/img/rpg/Made_in_Abyss_Binary_Star_Falling_into_Darkness/ss_d2da75222cf9228bec45e9e8e17ccc6f2366abde.1920x1080.jpg",
+                "/assets/img/rpg/Made_in_Abyss_Binary_Star_Falling_into_Darkness/ss_df8dda8ea29e56421c2045677ddeaf25be8c12b6.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 13,
+            "cate_id": "3",
+            "name": "SD GUNDAM 激斗同盟",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 449
+                },
+                {
+                    "name": "豪华版",
+                    "price": 639
+                }
+            ],
+            "detail": "导正虚假世界的共同战线 『SD GUNDAM 激斗同盟』是可以运用多种武装进行爽快连击， 1至3人都能乐在其中的新型态SD高达动作RPG。 强化所获得机体，挑战等待着玩家的各种任务吧！",
+            "img": [
+                "/assets/img/rpg/SD_GUNDAM/header_schinese.jpg",
+                "/assets/img/rpg/SD_GUNDAM/ss_a22c45f7431ae74512946388f9ee367f0e94ab4f.1920x1080.jpg",
+                "/assets/img/rpg/SD_GUNDAM/ss_a703a8afb06dcb0f66e8b70d0378de3ade885f35.1920x1080.jpg",
+                "/assets/img/rpg/SD_GUNDAM/ss_a939752bdafcd267d82dcb86a79e09524cbc753d.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 14,
+            "cate_id": "3",
+            "name": "横跨方尖碑",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 148
+                }
+            ],
+            "detail": "《横跨方尖碑》是一款结合了牌组构筑与轻度 Rogue 的合作类 RPG 游戏。你可以单人游戏或与好友一起游玩，选择你的英雄，解锁物品与卡牌，锻造你的卡组，在深度的策略性战斗中直面强大的敌人。你敢越过方尖碑吗？",
+            "img": [
+                "/assets/img/rpg/Across_the_Obelisk/header.jpg",
+                "/assets/img/rpg/Across_the_Obelisk/ss_52ea04c077c8f74f55f8cdacee7bda2fa6944829.1920x1080.jpg",
+                "/assets/img/rpg/Across_the_Obelisk/ss_b6ec20fe20ead910649cd8c0aa02ccdb101fab0b.1920x1080.jpg",
+                "/assets/img/rpg/Across_the_Obelisk/ss_bc4b7b8c6837c466dc0ac8b1ce736839045a5456.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 15,
+            "cate_id": "3",
+            "name": "ORX 城堡之巅",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 80
+                }
+            ],
+            "detail": "《《ORX》对著名塔防类游戏进行了全新的演绎，将热门牌组构建游戏和桌游的机制完美融合，旨在缔造真正独特的体验。壮大城堡，扩充领土，勇敢地反抗成群的绿皮攻击者！",
+            "img": [
+                "/assets/img/rpg/ORX/header.jpg",
+                "/assets/img/rpg/ORX/ss_6f5f09d2cf5adaa925efa6b3de241be66077a7f8.1920x1080.jpg",
+                "/assets/img/rpg/ORX/ss_721dada6268734a7c0b2efff8288cc8417a1ed77.1920x1080.jpg",
+                "/assets/img/rpg/ORX/ss_c5310dda7ba553ac529222d6258027a46cd130ac.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 16,
+            "cate_id": "4",
+            "name": "War Thunder",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 20
+                }
+            ],
+            "detail": "War Thunder上最全面的免费、跨平台大型多人在线军事类游戏，专注于二战和冷战时期的航空、装甲车辆和海军舰艇。现在就加入进来参与在地面、天空和海洋进行的主要战事，并和来自全球各地的几百万玩家们在不断变化的环境中战斗。",
+            "img": [
+                "/assets/img/simulation/War_Thunder/header.jpg",
+                "/assets/img/simulation/War_Thunder/ss_070f48bca52544a2067bd2da93489df54c616d5a.1920x1080.jpg",
+                "/assets/img/simulation/War_Thunder/ss_15343f845523e07d5fc51c6208f362b7bcaa1fbe.1920x1080.jpg",
+                "/assets/img/simulation/War_Thunder/ss_aef518de9c6987834e6302075e712911663669a2.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 17,
+            "cate_id": "4",
+            "name": "Farming Simulator 19",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 139
+                },
+                {
+                    "name": "豪华版",
+                    "price": 169
+                }
+            ],
+            "detail": "百万销量的品牌以全新的图形引擎、让人着迷的游戏玩法以及身临其境的视效又向前迈出重要一步，诚邀您体验有史以来最大型的农耕模拟游戏。",
+            "img": [
+                "/assets/img/simulation/Farming_Simulator_19/header.jpg",
+                "/assets/img/simulation/Farming_Simulator_19/ss_93eef48f077663a49afd5801239cb21c150f6091.1920x1080.jpg",
+                "/assets/img/simulation/Farming_Simulator_19/ss_409aca7beb98362696c7905a191fb39819c9e9c6.1920x1080.jpg",
+                "/assets/img/simulation/Farming_Simulator_19/ss_81606c80db5fec103f5f88b24cc2e6832a1bc158.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 18,
+            "cate_id": "4",
+            "name": "极限竞速：地平线 4",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 138
+                },
+                {
+                    "name": "豪华版",
+                    "price": 186
+                }
+            ],
+            "detail": "在世界上最盛大的汽车嘉年华上，不断变化的赛季改变着一切。单枪匹马或者与其他人组队，在一个共享开放世界中探索美丽而富有历史气息的英国。收集、改装和驾驶超过 450 辆车辆。尽情竞速、表演特技、创造和探索：选择您专属的方式来成为地平线中的超级巨星。",
+            "img": [
+                "/assets/img/simulation/Forza_Horizon_4/header.jpg",
+                "/assets/img/simulation/Forza_Horizon_4/ss_56d3181c30a7975a46c4f2d8391861890508d7ba.1920x1080.jpg",
+                "/assets/img/simulation/Forza_Horizon_4/ss_d2046bdb2f6acdf9b88c3c168e9eaec38495f063.1920x1080.jpg",
+                "/assets/img/simulation/Forza_Horizon_4/ss_e88792a0331f460d913ac05203f7c1b12112b14c.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 19,
+            "cate_id": "4",
+            "name": "迷走深空：碎舰师",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 179
+                },
+                {
+                    "name": "豪华版",
+                    "price": 196
+                }
+            ],
+            "detail": "利用最先进的废物回收科技切割太空船，回收高价值材料。升级装备，接取更加有利可图的合同，偿还您对LYNX Corp的数十亿信用债务！",
+            "img": [
+                "/assets/img/simulation/Hardspace_Shipbreaker/header.jpg",
+                "/assets/img/simulation/Hardspace_Shipbreaker/ss_354c8b1c330b453224661fd541adb5975ef54a2c.1920x1080.jpg",
+                "/assets/img/simulation/Hardspace_Shipbreaker/ss_a6631597bfb9b9d2d3a0aa6353d45fae05e2caec.1920x1080.jpg",
+                "/assets/img/simulation/Hardspace_Shipbreaker/ss_aa434acace88144c378655f93e31545196b3b050.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 20,
+            "cate_id": "4",
+            "name": "城市：天际线",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 218
+                },
+                {
+                    "name": "豪华版",
+                    "price": 268
+                }
+            ],
+            "detail": "《城市：天际线》是对经典城市模拟类游戏的现代演绎。该游戏引入了全新的游戏玩法元素，让玩家切身体会到创造和维持一座真正城市的兴奋和艰辛，同时扩展了城市建设体验中的一些经久不衰的主题。",
+            "img": [
+                "/assets/img/simulation/Cities_Skylines/header.jpg",
+                "/assets/img/simulation/Cities_Skylines/ss_0ff5efa28d8c6761ee2e9c57412ca3bd9e133fed.1920x1080.jpg",
+                "/assets/img/simulation/Cities_Skylines/ss_013b26f27484941d4edbd406f8df5b5238f120df.1920x1080.jpg",
+                "/assets/img/simulation/Cities_Skylines/ss_7d54fe076aabfd4fbe465517a4f1a4426e9cb367.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 21,
+            "cate_id": "5",
+            "name": "Grand Theft Auto V",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 121
+                },
+                {
+                    "name": "豪华版",
+                    "price": 300
+                }
+            ],
+            "detail": "《PC 版Grand Theft Auto V 能够以超越 4K 的最高分辨率和 60 帧每秒的帧率，为您呈现屡获殊荣、令人痴迷的游戏世界——洛桑托斯市和布雷恩郡。",
+            "img": [
+                "/assets/img/racing/Grand_Theft_Auto_V/header.jpg",
+                "/assets/img/racing/Grand_Theft_Auto_V/ss_32aa18ab3175e3002217862dd5917646d298ab6b.1920x1080.jpg",
+                "/assets/img/racing/Grand_Theft_Auto_V/ss_2744f112fa060320d191a50e8b3a92441a648a56.1920x1080.jpg",
+                "/assets/img/racing/Grand_Theft_Auto_V/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 22,
+            "cate_id": "5",
+            "name": "神力科莎 Assetto Corsa",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 89
+                },
+                {
+                    "name": "豪华版",
+                    "price": 156
+                }
+            ],
+            "detail": "《神力科莎 Assetto Corsa》1.16版本推出了全新镭射扫描“Laguna Seca“赛道，7款全新车型，当中包括了备受期待的阿尔法·罗密欧Giulia Quadrifoglio！请查看更新日志，获取更多信息！",
+            "img": [
+                "/assets/img/racing/Assetto_Corsa/header.jpg",
+                "/assets/img/racing/Assetto_Corsa/ss_6c771fd2bff6a09d39541d0aee04a7f663927e0f.1920x1080.jpg",
+                "/assets/img/racing/Assetto_Corsa/ss_276544bf9b71fe701254f1d065e97c0be74f65e2.1920x1080.jpg",
+                "/assets/img/racing/Assetto_Corsa/ss_a098061e7aaf52410030a012d07582b11ff4cb72.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 23,
+            "cate_id": "5",
+            "name": "BeamNG.drive",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 109
+                }
+            ],
+            "detail": "一款搭载软体物理系统的动态车辆模拟游戏，能够让任何事情成为可能。",
+            "img": [
+                "/assets/img/racing/BeamNGdrive/header.jpg",
+                "/assets/img/racing/BeamNGdrive/ss_3db166b10f8826a58e1f4d6bf4a05d47a6a41823.1920x1080.jpg",
+                "/assets/img/racing/BeamNGdrive/ss_6b7aa286b57eac6edc8fd983bea7358a705165b5.1920x1080.jpg",
+                "/assets/img/racing/BeamNGdrive/ss_db0c83617b96870d5385111f5c03a1679d13eb73.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 24,
+            "cate_id": "5",
+            "name": "F1® 22",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 260
+                }
+            ],
+            "detail": "通过2022 FIA Formula One World Championship™ 官方视频游戏——EA SPORTS™《F1® 22》，进入 Formula 1® 新时代。",
+            "img": [
+                "/assets/img/racing/F1_22/header.jpg",
+                "/assets/img/racing/F1_22/ss_648ab537f1f451cc3660e1546a45b03ed4ddb87a.1920x1080.jpg",
+                "/assets/img/racing/F1_22/ss_696e36b6a06ae945d02b2d5b2575f9ab46d0203c.1920x1080.jpg",
+                "/assets/img/racing/F1_22/ss_e91d1011027e3a8bcb09177ff8e2a48213b2ee9e.1920x1080.jpg"
+            ]
+        },
+        {
+            "id": 25,
+            "cate_id": "5",
+            "name": "Need for Speed™ Payback",
+            "spec": [
+                {
+                    "name": "原版",
+                    "price": 78
+                }
+            ],
+            "detail": "《Need for Speed™ Payback - Deluxe Edition》让您获得竞争优势。 借助专属改装物品脱颖而出，接收游戏内折扣、声望奖励和五批货物，开启速度与激情之旅。",
+            "img": [
+                "/assets/img/racing/Need_for_Speed_Payback/header.jpg",
+                "/assets/img/racing/Need_for_Speed_Payback/ss_3f14712eab1f5f22e4cbf3d68acf3dba2f999d06.1920x1080.jpg",
+                "/assets/img/racing/Need_for_Speed_Payback/ss_afc36c446e528e64298b881d59d245e0426d0673.1920x1080.jpg",
+                "/assets/img/racing/Need_for_Speed_Payback/ss_d81665a501336c92ecc0af24fbc672be9ec924cc.1920x1080.jpg"
+            ]
+        }
+    ]
+}
